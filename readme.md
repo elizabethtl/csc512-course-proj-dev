@@ -1,4 +1,6 @@
-This is the submission repo for csc512
+This is the dev repo for csc512
+
+The llvm I am using is llvm-14, the files are included in [llvm/](llvm)
 
 The pass is in [part1/](part1/)
 
